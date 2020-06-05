@@ -1,4 +1,4 @@
-# OCR-digit
+# Digit OCR
 
 Optical Character system for recognition of digits 0-9.
 
