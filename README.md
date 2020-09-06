@@ -1,35 +1,39 @@
 # Digit OCR
 
-Optical Character program for recognising digits from 0 to 9.
+Optical Character program for recognising digits from 0 to 9. I have made this on Google Colab, using complex machine learning modules. This project has been my first practical experience with Machine Learning.
 
-## Getting Started
+The objective of this project is to present the computer with a handwritten representation of a digit and for it to make an accurate estimation of what the digit is.
 
-_Prerequisites_
+I have used the **sklearn** and the **matplotlib** Python libraries for the machine learning process.
 
-_Installing_
+## Using Colab
 
-## Running the tests
+Google Colab is a Python development enviroment that allows the user to combine code, text and images in the same document, hence perfect for a project of this nature. It is extremely easy to import libraries and see the execution of the ML models we will use.
 
-_End to End test_
+_Execution_
 
-_Coding tests_
+After downloading the files, go to Google Colab, and select "Upload", and choose the ```OCR.ipynib``` file that has just been downloaded.
+A new Colaboratory should open, complete with the code, and the results.
 
-## Deployment
+If you wish to go through the process yourself, you will have to run all the code snippets over in the correct order by pressing the run button alongside them, as the modules and datasets will need to be loaded onto your system.
+
+## Walking through the code
+
+Refer to the detailed text snippets in the Colab to understand each step of the learning and recognition processes.
+
+### Result
+
+As is demonstrated in the last shell, the accuracy of this model is a respectable 91.47%.
 
 ## Built Using
 
-## Versioning
+A Python Jupiter notebook, Machine Learning executed with the matplotlib and sklearn modules.
 
 ## Author
 
-## Acknowledgements
+Tejas Karnani
 
+Please feel free to contact me in case any issues are faced with the running of this program, mail- tejaskarnani1@gmail.com
 
-Made using machine learning on a Python Jupyter notebook.
-
-Uses an MLP program constructed using the matplotlib and sklearn libraries.
-
-After the machine has sufficiently gone through provided training data, the accuracy of the system is gauged by testing it against a set of testing data.
-
-The accuracy is found to be 91.47%.
+Also please check out my other repositories displaying my interesting projects!
 
