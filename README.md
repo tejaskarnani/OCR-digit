@@ -19,7 +19,7 @@ A new Colaboratory should open, complete with the code, and the results.
 
 It should look something like this:
 
-<img src="Colab-Code.png" alt="alt text" width="500" height="250">
+<img src="Colab-Code.png" alt="Colab View" width="1000" height="500">
 
 
 If you wish to go through the process yourself, you will have to run all the code snippets over in the correct order by pressing the run button alongside them, as the modules and datasets will need to be loaded onto your system.
