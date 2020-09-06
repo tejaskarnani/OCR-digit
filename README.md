@@ -17,6 +17,11 @@ _Execution_
 After downloading the files, go to Google Colab, and select "Upload", and choose the OCR.ipynib file that has just been downloaded.
 A new Colaboratory should open, complete with the code, and the results.
 
+It should look something like this:
+
+<img src="game_screenshot.png" alt="alt text" width="500" height="250">
+
+
 If you wish to go through the process yourself, you will have to run all the code snippets over in the correct order by pressing the run button alongside them, as the modules and datasets will need to be loaded onto your system.
 
 ## Walking through the code
