@@ -10,9 +10,11 @@ I have used the **sklearn** and the **matplotlib** Python libraries for the mach
 
 Google Colab is a Python development enviroment that allows the user to combine code, text and images in the same document, hence perfect for a project of this nature. It is extremely easy to import libraries and see the execution of the ML models we will use.
 
+In fact, you can go to colab and directly open the file by choosing 'open with GitHub', typing the URL and picking the OCR-digit.ipynib file.
+
 _Execution_
 
-After downloading the files, go to Google Colab, and select "Upload", and choose the ```OCR.ipynib``` file that has just been downloaded.
+After downloading the files, go to Google Colab, and select "Upload", and choose the OCR.ipynib file that has just been downloaded.
 A new Colaboratory should open, complete with the code, and the results.
 
 If you wish to go through the process yourself, you will have to run all the code snippets over in the correct order by pressing the run button alongside them, as the modules and datasets will need to be loaded onto your system.
